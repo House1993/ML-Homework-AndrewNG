@@ -1,0 +1,14 @@
+# downloads
+zips/
+
+# data
+*.txt
+*.mat
+*.bz2
+*.png
+
+# environment
+octave-workspace
+
+# submit code
+lib/
